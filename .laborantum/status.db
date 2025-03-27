@@ -3,22 +3,22 @@
         {
             "path": "/texts/course/config.yml",
             "status": {
-                "total": 98,
-                "correct": 0
+                "total": 136,
+                "correct": 8
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/config.yml",
             "status": {
                 "total": 50,
-                "correct": 0
+                "correct": 8
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/config.yml",
             "status": {
                 "total": 33,
-                "correct": 0
+                "correct": 8
             }
         },
         {
@@ -31,7 +31,7 @@
         {
             "path": "/texts/course/2. Calculus/config.yml",
             "status": {
-                "total": 48,
+                "total": 73,
                 "correct": 0
             }
         },
@@ -45,7 +45,14 @@
         {
             "path": "/texts/course/2. Calculus/2. Integrals/config.yml",
             "status": {
-                "total": 1,
+                "total": 25,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/3. Probability and Statistics/config.yml",
+            "status": {
+                "total": 13,
                 "correct": 0
             }
         }
@@ -55,8 +62,11 @@
             "path": "/texts/course/1. Linear Algebra/1. Vectors/1. Vectors as Arrows/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    3
+                ]
             }
         },
         {
@@ -155,48 +165,81 @@
             "path": "/texts/course/1. Linear Algebra/1. Vectors/2. Sum of Vectors Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    3,
+                    6,
+                    4
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/3. Sum of Vectors Quiz 2/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    2,
+                    7,
+                    3,
+                    5,
+                    0
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/4. Scaling Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    3,
+                    6,
+                    2,
+                    4,
+                    1
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/6. Scalar Product Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    2,
+                    6,
+                    4
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/7. Geometric Meaning Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    2,
+                    5,
+                    3
+                ]
             }
         },
         {
             "path": "/texts/course/1. Linear Algebra/1. Vectors/8. Orthonormalisation Quiz/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "total": 2,
+                "correct": 2,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
             }
         },
         {
@@ -345,6 +388,78 @@
         },
         {
             "path": "/texts/course/1. Linear Algebra/2. Matrices/8. Matrix Analysis in Numpy/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Calculus/2. Integrals/1. Integrals Table/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Calculus/2. Integrals/2. Integral is Antiderivative Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Calculus/2. Integrals/3. Integration by Parts Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Calculus/2. Integrals/4. Approximate Integral Calculation (Rectangles)/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Calculus/2. Integrals/5. Approximate Integral Calculation (Trapezoids)/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2. Calculus/2. Integrals/6. Integrals Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Probability and Statistics/1. Linearity of Expectance/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Probability and Statistics/2. Variance of Sum/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3. Probability and Statistics/1. Discrete Probability Practice/config.yml",
             "status": {
                 "total": 1,
                 "correct": 0,
